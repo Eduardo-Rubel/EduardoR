@@ -10,7 +10,4 @@ public class Hello {
     public void olamundo(){
         System.out.println("Ola Mundo");
     }
-    public void holaquetal(){
-        System.out.println("Hola q");
-    }
 }
